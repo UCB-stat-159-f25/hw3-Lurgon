@@ -4,7 +4,10 @@ project:
   id: afdb8f06-d8e7-429c-b015-414908d0154d
   title: "STAT 159 HW3"
   description: "LIGO Scientific Collaboration (LSC)"
-  authors: "Logan Krause"
+  authors: 
+      - "Ligo Scentific Collaboration (LCS)" 
+      - "Logan Krause"
+  affiliation: "University of California, Berkeley"
   github: https://github.com/UCB-stat-159-f25/hw3-Lurgon
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
